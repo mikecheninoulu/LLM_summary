@@ -70,6 +70,8 @@ Shoutout to myself for following up on the trendy techs even though I'm super bu
 
 # LLM for video understanding
 
+## Descrption
+
 **[1] VideoChat: Chat-Centric Video Understanding**
 - intro: OpenGVLab
 - point: long video understanding, many variants, chat groups
@@ -91,6 +93,13 @@ Shoutout to myself for following up on the trendy techs even though I'm super bu
 - project: https://github.com/rese1f/MovieChat
 - 2023 August
 
+## Classification
+
+**[1] Frozen CLIP Models are Efficient Video Learners**
+- intro: ECCV 2023
+
+**[2] Fine-tuned CLIP Models are Efficient Video Learners**
+- intro: CVPR 2023
 
 # Library
 **[1] LAVIS - A Library for Language-Vision Intelligence**
