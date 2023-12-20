@@ -80,8 +80,15 @@ Shoutout to myself for following up on the trendy techs even though I'm super bu
 **[2] VideoChat : Chat-Centric Video Understanding**
 - intro: OpenGVLab
 - point: long video understanding, many variants, chat groups
-- paper: [https://arxiv.org/pdf/2305.06355.pdf](https://arxiv.org/pdf/2305.06355.pdf)
+- paper: [https://arxiv.org/pdf/2307.16449v2.pdf](https://arxiv.org/pdf/2307.16449v2.pdf)
 - project: https://github.com/OpenGVLab/Ask-Anything/tree/main
+
+**[3] MovieChat: From Dense Token to Sparse Memory for Long Video Understanding**
+- intro: Microsoft Research Asia
+- point: long video understanding, no reasoning
+- paper: [https://arxiv.org/pdf/2305.06355.pdf](https://arxiv.org/pdf/2305.06355.pdf)
+- project: https://github.com/rese1f/MovieChat
+- 
 
 
 # Library
@@ -91,13 +98,33 @@ Shoutout to myself for following up on the trendy techs even though I'm super bu
 
 **[2] ASK anything**
 - intro: OpenGVLab
-- link: [https://github.com/salesforce/LAVIS](https://github.com/OpenGVLab/Ask-Anything)
+- link: [https://github.com/OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything)
+
+  
+# Self-supervised learning framework
+**[1] Moco: Momentum Contrast for Unsupervised Visual Representation Learning**
+- intro: FAIR, the first contrastive learning for large models from FAIR
+- point: moco v1 baseline, moco v2 adds tricks from simCLR, moco v3 adds Transformer with stability, 
+- link: https://github.com/salesforce/LAVIS
+
+**[2] SimCLR: A Simple Framework for Contrastive Learning of Visual Representations**
+- intro: Google brain
+- point: two tricks, data augmentation, projection head.
+- blog: https://sthalles.github.io/simple-self-supervised-learning/
+
+
+**[3] Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning**
+- intro: Google brain
+- point: two tricks, data augmentation, projection head.
+- blog: https://sthalles.github.io/simple-self-supervised-learning/
+
+- 
 
 
 ## Ideas
-CLIP-QAGAN
+- generation CLIP-QAGAN
 https://medium.com/nightcafe-creator/vqgan-clip-tutorial-a411402cf3ad
-EXPBLIP
+- emotion EXPBLIP
 https://github.com/Yujianyuan/Exp-BLIP
 
 
