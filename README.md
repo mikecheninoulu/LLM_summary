@@ -93,6 +93,11 @@ Shoutout to myself for following up on the trendy techs even though I'm super bu
 - project: https://github.com/rese1f/MovieChat
 - 2023 August
 
+After November
+- Uncovering Hidden Connections: Iterative Tracking and Reasoning for Video-grounded Dialog
+- AffectGPT: Audio-Video-Text Aligned, Human-centric Model for Explainable Multimodal Emotion Reasoning
+- Retrieval-based Video Language Model for Efficient Long Video Question Answering
+
 ## Classification
 
 **[1] Frozen CLIP Models are Efficient Video Learners**
