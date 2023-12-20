@@ -70,25 +70,26 @@ Shoutout to myself for following up on the trendy techs even though I'm super bu
 
 # LLM for video understanding
 
-**[1] Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding**
-- intro: Alibaba group 
-- point: process video inputs, not for long video reasoning
-- paper: [https://arxiv.org/pdf/2306.02858.pdf](https://arxiv.org/pdf/2306.02858.pdf)
-- project: https://github.com/DAMO-NLP-SG/Video-LLaMA
-
-
-**[2] VideoChat: Chat-Centric Video Understanding**
+**[1] VideoChat: Chat-Centric Video Understanding**
 - intro: OpenGVLab
 - point: long video understanding, many variants, chat groups
 - paper: [https://arxiv.org/pdf/2307.16449v2.pdf](https://arxiv.org/pdf/2307.16449v2.pdf)
 - project: https://github.com/OpenGVLab/Ask-Anything/tree/main
+- 2023 May
+
+**[2] Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding**
+- intro: Alibaba group 
+- point: process video inputs, not for long video reasoning
+- paper: [https://arxiv.org/pdf/2306.02858.pdf](https://arxiv.org/pdf/2306.02858.pdf)
+- project: https://github.com/DAMO-NLP-SG/Video-LLaMA
+- 2023 Jun
 
 **[3] MovieChat: From Dense Token to Sparse Memory for Long Video Understanding**
 - intro: Microsoft Research Asia
 - point: long video understanding, no reasoning
 - paper: [https://arxiv.org/pdf/2305.06355.pdf](https://arxiv.org/pdf/2305.06355.pdf)
 - project: https://github.com/rese1f/MovieChat
-  
+- 2023 August
 
 
 # Library
@@ -118,7 +119,7 @@ Shoutout to myself for following up on the trendy techs even though I'm super bu
 - point: non constrative learning
 - code: https://github.com/sthalles/PyTorch-BYOL
 
-- 
+- others
 
 
 ## Ideas
