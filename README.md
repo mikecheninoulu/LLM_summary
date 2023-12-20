@@ -77,7 +77,7 @@ Shoutout to myself for following up on the trendy techs even though I'm super bu
 - project: https://github.com/DAMO-NLP-SG/Video-LLaMA
 
 
-**[2] VideoChat : Chat-Centric Video Understanding**
+**[2] VideoChat: Chat-Centric Video Understanding**
 - intro: OpenGVLab
 - point: long video understanding, many variants, chat groups
 - paper: [https://arxiv.org/pdf/2307.16449v2.pdf](https://arxiv.org/pdf/2307.16449v2.pdf)
@@ -88,7 +88,7 @@ Shoutout to myself for following up on the trendy techs even though I'm super bu
 - point: long video understanding, no reasoning
 - paper: [https://arxiv.org/pdf/2305.06355.pdf](https://arxiv.org/pdf/2305.06355.pdf)
 - project: https://github.com/rese1f/MovieChat
-- 
+  
 
 
 # Library
@@ -114,9 +114,9 @@ Shoutout to myself for following up on the trendy techs even though I'm super bu
 
 
 **[3] Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning**
-- intro: Google brain
-- point: two tricks, data augmentation, projection head.
-- blog: https://sthalles.github.io/simple-self-supervised-learning/
+- intro: Google brain， BYOL
+- point: non constrative learning
+- code: https://github.com/sthalles/PyTorch-BYOL
 
 - 
 
