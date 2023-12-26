@@ -1,7 +1,7 @@
 # LLM_summary
 It's a summarization of the recent LLM for vision understanding
 
-Shoutout to myself for following up on the trendy techs even though I'm super busy after my PhD graduation.
+Shoutout to Li Mu and their online Youtube tutorial about LLM.
 
 # Classical models
 
