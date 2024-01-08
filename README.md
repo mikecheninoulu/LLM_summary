@@ -97,6 +97,7 @@ After November
 - Uncovering Hidden Connections: Iterative Tracking and Reasoning for Video-grounded Dialog
 - AffectGPT: Audio-Video-Text Aligned, Human-centric Model for Explainable Multimodal Emotion Reasoning
 - Retrieval-based Video Language Model for Efficient Long Video Question Answering
+- Vista-LLaMA: Reliable Video Narrator via Equal Distance to Visual Tokens
 
 ## Classification
 
