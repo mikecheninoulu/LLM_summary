@@ -55,7 +55,7 @@ Shoutout to Li Mu and their online Youtube tutorial about LLM.
 - point: Qformer, qeury-based generation, Junnan Li.
 - paper: [arxiv.org/abs/2301.12597](arxiv.org/abs/2301.12597)
 - project: https://github.com/salesforce/BLIP
-- huggingface: https://link.zhihu.com/?target=https%3A//huggingface.co/spaces/Salesforce/BLIP2
+- huggingface: https://huggingface.co/spaces/Salesforce/BLIP2
 - zhihu: https://zhuanlan.zhihu.com/p/606364639
 
 
